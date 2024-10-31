@@ -5,9 +5,9 @@ I'm an Industrial Engineering graduate currently studying Information Technology
 ## 👨‍💻 Software Projects 👨‍💻
 
 ### Full Stack Web Application
-- **[Fitness-First](https://github.com/kiranpok/Fitness_First_Merged)**: A comprehensive web application built using the MERN stack (MongoDB, Express, React, Node.js). This project includes localization features and has been successfully deployed using Docker, following DevOps practices.
+- **[Fitness-First](https://github.com/kiranpok/Fitness_First_Merged)**: A comprehensive web application built using the MERN stack (MongoDB, Express, React, Node.js). This project includes localization features ti accomodate diverse users and has been successfully deployed using Docker, following DevOps practices.
 
-- **[Barbershop](https://github.com/punAnish/barbershop)**: A full-featured barbershop management application developed with the MERN stack. This project focuses on providing a seamless user experience and efficient service management.
+- **[Barbershop](https://github.com/punAnish/barbershop)**: A full-featured barbershop management application developed with the MERN stack. This project focuses on providing a seamless user experience and efficient service management, allowing customers to book appointments, view services and manage their profiles.
 
 
 ### Android Mobile Application 
