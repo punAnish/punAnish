@@ -1,6 +1,6 @@
 # Hello, I'm Anish Pun.
 
-I'm an Industrial Engineering graduate currently studying Information Technology, majoring in Software Engineering. With a strong foundation in engineering principles and a growing expertise in software development, I am eager to apply my skills to create innovative and efficient solutions in the technology sector.
+I'm an Information Technology student majoring in Software Engineering, with a background in Industrial Engineering and Management. Combining solid foundatiiion in engineering principles and a growing expertise in software development, I am eager to apply my skills to create innovative and efficient solutions in the technology sector.
 
 ## 👨‍💻 Software Projects 👨‍💻
 
