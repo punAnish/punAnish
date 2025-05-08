@@ -11,10 +11,12 @@ I'm an Industrial Engineering graduate currently studying Information Technology
 
 
 ### Android Mobile Application 
-- **[WeatherMate](https://github.com/kiranpok/WeatherMate)**: Updating soon...
+- **[WeatherMate](https://github.com/kiranpok/WeatherMate)**: A clean and user-friendly weather app that shows real-time updates for your current or chosen location. It provides forecasts, current conditions, and key details like temperature, humidity, wind speed, and precipitation—all in a clean and easy-to-use interface.
 
 ### Swift Application 
-- **[TaskFlow](https://github.com/Mamita123/TaskFlow)**: Updating soon...
+- **[TaskFlow](https://github.com/Mamita123/TaskFlow)**: A simple and efficient to-do list app built with Swift and SwiftUI. Users can easily create, edit, update, and delete tasks. The app supports Finnish and English languages and features a clean, minimal interface for better productivity.
+
+
 
 Feel free to connect with me or check out my projects!
 
